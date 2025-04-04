@@ -1,5 +1,5 @@
 # ExchangeRate
-Real-Time Exchange Rate Tracker 
+The Real-Time Exchange Rate Tracker 
 
 I use a free API to get currency exchange.
 https://github.com/fawazahmed0/exchange-api
@@ -21,5 +21,3 @@ Wrote some tests for the project and BackendAPI.
 You need to press command+U to run.
 
 Enjoy.
-
-![image](https://github.com/user-attachments/assets/920b0d1b-e081-445f-8ccd-1ecebc5e715e)
