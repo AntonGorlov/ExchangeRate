@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "58597EC9-FEB9-4384-AC21-DD0C855CC83A",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ExchangeRate.xcodeproj",
+        "identifier" : "A33E2CD32D9C0D3F00C7722F",
+        "name" : "ExchangeRateTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:ExchangeRate\/Frameworks\/BackendAPI",
+        "identifier" : "BackendAPITests",
+        "name" : "BackendAPITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:ExchangeRate.xcodeproj",
+        "identifier" : "A33E2CDD2D9C0D3F00C7722F",
+        "name" : "ExchangeRateUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
